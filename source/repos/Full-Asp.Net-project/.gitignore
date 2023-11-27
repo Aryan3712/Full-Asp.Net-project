@@ -9,3 +9,6 @@
 
 # Ignore compiled code
 *.class
+
+#only track .cs files
+!*.cs
