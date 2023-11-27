@@ -1,0 +1,11 @@
+# Ignore the .vs folder
+.vs/
+
+# Ignore temporary files
+*.tmp
+
+# Ignore log files
+*.log
+
+# Ignore compiled code
+*.class
