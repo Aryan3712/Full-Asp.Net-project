@@ -1,5 +1,4 @@
 # Ignore all files except .cs files
 *
-
 # Allow .cs files
 !*.cs
