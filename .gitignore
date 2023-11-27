@@ -1,3 +1,5 @@
+# Ignore all files except .cs files
 *
-#only track .cs files
+
+# Allow .cs files
 !*.cs
