@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\source\\repos\\Tweetbook\\Tweetbook\\Tweetbook.csproj": {}
+    "C:\\Users\\ACER\\source\\repos\\Full-Asp.Net-project\\Tweetbook\\Tweetbook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\source\\repos\\Tweetbook\\Tweetbook\\Tweetbook.csproj": {
+    "C:\\Users\\ACER\\source\\repos\\Full-Asp.Net-project\\Tweetbook\\Tweetbook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\Tweetbook\\Tweetbook\\Tweetbook.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\Full-Asp.Net-project\\Tweetbook\\Tweetbook.csproj",
         "projectName": "Tweetbook",
-        "projectPath": "C:\\Users\\ACER\\source\\repos\\Tweetbook\\Tweetbook\\Tweetbook.csproj",
+        "projectPath": "C:\\Users\\ACER\\source\\repos\\Full-Asp.Net-project\\Tweetbook\\Tweetbook.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\source\\repos\\Tweetbook\\Tweetbook\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\source\\repos\\Full-Asp.Net-project\\Tweetbook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
